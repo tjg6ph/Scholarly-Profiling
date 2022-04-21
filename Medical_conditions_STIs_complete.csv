@@ -1,154 +1,155 @@
-,person.type,person.value,personLabel.xml:lang,personLabel.type,personLabel.value,sexgenderLabel.xml:lang,sexgenderLabel.type,sexgenderLabel.value,conditions.type,conditions.value,causedeath.type,causedeath.value
-0,uri,http://www.wikidata.org/entity/Q831387,en,literal,Abing,en,literal,male,literal,syphilis,literal,
-1,uri,http://www.wikidata.org/entity/Q58640157,en,literal,Adam Johnson,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-2,uri,http://www.wikidata.org/entity/Q352,en,literal,Adolf Hitler,en,literal,male,literal,syphilis,literal,ballistic trauma
-3,uri,http://www.wikidata.org/entity/Q2740907,en,literal,Agustín Gómez-Arcos,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-4,uri,http://www.wikidata.org/entity/Q80048,en,literal,Al Capone,en,literal,male,literal,"syphilis, neurosyphilis, gonorrhea",literal,bronchopneumonia
-5,uri,http://www.wikidata.org/entity/Q1286616,en,literal,Al Parker,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-6,uri,http://www.wikidata.org/entity/Q2829779,en,literal,Alain Emmanuel Dreuilhe,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-7,uri,http://www.wikidata.org/entity/Q2831095,en,literal,Albert Delegue,en,literal,male,literal,HIV/AIDS,literal,"death from AIDS-related complications, encephalitis"
-8,uri,http://www.wikidata.org/entity/Q12873337,en,literal,Alexis Bistikas,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-9,uri,http://www.wikidata.org/entity/Q449037,en,literal,Alvin Ailey,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-10,uri,http://www.wikidata.org/entity/Q5676057,en,literal,Andrés Pérez,en,literal,male,literal,HIV/AIDS,literal,pneumonia
-11,uri,http://www.wikidata.org/entity/Q1090963,en,literal,Andy Milligan,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-12,uri,http://www.wikidata.org/entity/Q263123,en,literal,Annie Chapman,en,literal,female,literal,syphilis,literal,
-13,uri,http://www.wikidata.org/entity/Q2863170,en,literal,Arnaud Marty-Lavauzelle,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-14,uri,http://www.wikidata.org/entity/Q4272060,en,literal,Arne Vidar Røed,en,literal,male,literal,"HIV/AIDS, gonorrhea",literal,death from AIDS-related complications
-15,uri,http://www.wikidata.org/entity/Q53325,en,literal,Arthur Ashe,en,literal,male,literal,HIV/AIDS,literal,"pneumonia, AIDS related disease"
-16,uri,http://www.wikidata.org/entity/Q4864288,en,literal,Barry Hagan,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-17,uri,http://www.wikidata.org/entity/Q2897813,en,literal,Bernard Dort,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-18,uri,http://www.wikidata.org/entity/Q379934,en,literal,Bernard-Marie Koltès,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-19,uri,http://www.wikidata.org/entity/Q862132,en,literal,Bill Goldsworthy,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-20,uri,http://www.wikidata.org/entity/Q12881298,en,literal,Billy Bo,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-21,uri,http://www.wikidata.org/entity/Q864094,en,literal,Binyavanga Wainaina,en,literal,male,literal,HIV/AIDS,literal,stroke
-22,uri,http://www.wikidata.org/entity/Q4934604,en,literal,Bobbi Campbell,en,literal,male,literal,HIV/AIDS,literal,cryptosporidiosis
-23,uri,http://www.wikidata.org/entity/Q374175,en,literal,Brad Davis,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-24,uri,http://www.wikidata.org/entity/Q55681462,en,literal,Brian Buczak,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-25,uri,http://www.wikidata.org/entity/Q348916,en,literal,Bruce Chatwin,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-26,uri,http://www.wikidata.org/entity/Q719372,en,literal,Casey Donovan,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-27,uri,http://www.wikidata.org/entity/Q9185254,en,literal,Catherine Lombard,en,literal,female,literal,HIV/AIDS,literal,death from AIDS-related complications
-28,uri,http://www.wikidata.org/entity/Q99256919,en,literal,Charles Buel,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-29,uri,http://www.wikidata.org/entity/Q2978768,en,literal,Cleews Vellay,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-30,uri,http://www.wikidata.org/entity/Q9784963,en,literal,Cláudia Magno,en,literal,female,literal,HIV/AIDS,literal,death from AIDS-related complications
-31,uri,http://www.wikidata.org/entity/Q956227,en,literal,Colin Higgins,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-32,uri,http://www.wikidata.org/entity/Q953270,en,literal,Dack Rambo,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-33,uri,http://www.wikidata.org/entity/Q725964,en,literal,Dan Hartman,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-34,uri,http://www.wikidata.org/entity/Q28024369,en,literal,Dan Turner,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-35,uri,http://www.wikidata.org/entity/Q952233,en,literal,David Wojnarowicz,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-36,uri,http://www.wikidata.org/entity/Q22006290,en,literal,Dennis Levy,en,literal,male,literal,HIV/AIDS,literal,
-37,uri,http://www.wikidata.org/entity/Q57418896,en,literal,Dennis Riley,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-38,uri,http://www.wikidata.org/entity/Q65673977,en,literal,Deolus W. Husband,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-39,uri,http://www.wikidata.org/entity/Q282787,en,literal,Derek Jarman,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-40,uri,http://www.wikidata.org/entity/Q28595304,en,literal,Dom Orejudos,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-41,uri,http://www.wikidata.org/entity/Q56461797,en,literal,Dru Stix,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-42,uri,http://www.wikidata.org/entity/Q19974421,en,literal,Ernesto Barros Cardoso,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-43,uri,http://www.wikidata.org/entity/Q5442293,en,literal,Felix Partz,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-44,uri,http://www.wikidata.org/entity/Q1405464,en,literal,Ferdinand Karmelk,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-45,uri,http://www.wikidata.org/entity/Q939138,en,literal,Frank Silva,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-46,uri,http://www.wikidata.org/entity/Q15869,en,literal,Freddie Mercury,en,literal,male,literal,HIV/AIDS,literal,bronchopneumonia
-47,uri,http://www.wikidata.org/entity/Q1288359,en,literal,Félix González-Torres,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-48,uri,http://www.wikidata.org/entity/Q1381697,en,literal,Gaëtan Dugas,en,literal,male,literal,HIV/AIDS,literal,"death from AIDS-related complications, kidney failure"
-49,uri,http://www.wikidata.org/entity/Q5534471,en,literal,Geoffrey Bowers,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-50,uri,http://www.wikidata.org/entity/Q230824,en,literal,Gia Carangi,en,literal,female,literal,HIV/AIDS,literal,HIV/AIDS
-51,uri,http://www.wikidata.org/entity/Q220768,en,literal,Giambattista Bodoni,en,literal,male,literal,syphilis,literal,
-52,uri,http://www.wikidata.org/entity/Q23808688,en,literal,Gil Cuadros,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-53,uri,http://www.wikidata.org/entity/Q3106079,en,literal,Gilles Barbedette,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-54,uri,http://www.wikidata.org/entity/Q5880211,en,literal,Giovanny Romero Infante,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-55,uri,http://www.wikidata.org/entity/Q5607759,en,literal,Grethe Rask,en,literal,female,literal,HIV/AIDS,literal,"death from AIDS-related complications, pneumonia"
-56,uri,http://www.wikidata.org/entity/Q10292662,en,literal,Gugu Dlamini,en,literal,female,literal,HIV/AIDS,literal,
-57,uri,http://www.wikidata.org/entity/Q1309970,en,literal,Guy Hocquenghem,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-58,uri,http://www.wikidata.org/entity/Q77208,en,literal,Horst Bienek,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-59,uri,http://www.wikidata.org/entity/Q1334295,en,literal,Howard Ashman,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-60,uri,http://www.wikidata.org/entity/Q24578817,en,literal,Iannis Katsahnias,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-61,uri,http://www.wikidata.org/entity/Q2989086,en,literal,Ivan Vdović,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-62,uri,http://www.wikidata.org/entity/Q706886,en,literal,Jack Smith,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-63,uri,http://www.wikidata.org/entity/Q312258,en,literal,Jacques Demy,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-64,uri,http://www.wikidata.org/entity/Q449094,en,literal,Jacques Morali,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-65,uri,http://www.wikidata.org/entity/Q30332144,en,literal,Jacques de Bascher,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-66,uri,http://www.wikidata.org/entity/Q1237656,en,literal,James Rizzi,en,literal,male,literal,HIV/AIDS,literal,
-67,uri,http://www.wikidata.org/entity/Q18415613,en,literal,Jean-Baptiste Niel,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-68,uri,http://www.wikidata.org/entity/Q21664913,en,literal,Jeffrey Schmalz,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-69,uri,http://www.wikidata.org/entity/Q1690964,en,literal,Jobriath,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-70,uri,http://www.wikidata.org/entity/Q952198,en,literal,John Carroll,en,literal,male,literal,HIV/AIDS,literal,leukemia
-71,uri,http://www.wikidata.org/entity/Q312688,en,literal,John Holmes,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-72,uri,http://www.wikidata.org/entity/Q12320199,en,literal,John Little,en,literal,male,literal,HIV/AIDS,literal,
-73,uri,http://www.wikidata.org/entity/Q64647152,en,literal,John Van Ryzin,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-74,uri,http://www.wikidata.org/entity/Q20492630,en,literal,Jon Salaberri,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-75,uri,http://www.wikidata.org/entity/Q15456914,en,literal,Joseph F. Beam,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-76,uri,http://www.wikidata.org/entity/Q16010280,en,literal,Keith Barrow,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-77,uri,http://www.wikidata.org/entity/Q927532,en,literal,Kenny Everett,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-78,uri,http://www.wikidata.org/entity/Q100152138,en,literal,Kim Foltz,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-79,uri,http://www.wikidata.org/entity/Q57774,en,literal,Klaus Nomi,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-80,uri,http://www.wikidata.org/entity/Q13745316,en,literal,Koos Prinsloo,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-81,uri,http://www.wikidata.org/entity/Q559833,en,literal,Kostas Karyotakis,en,literal,male,literal,syphilis,literal,ballistic trauma
-82,uri,http://www.wikidata.org/entity/Q653366,en,literal,Larry Kramer,en,literal,male,literal,HIV/AIDS,literal,pneumonia
-83,uri,http://www.wikidata.org/entity/Q10316596,en,literal,Lauro Corona,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-84,uri,http://www.wikidata.org/entity/Q84313192,en,literal,Lee Gannon,en,literal,male,literal,HIV/AIDS,literal,car accident
-85,uri,http://www.wikidata.org/entity/Q1024044,en,literal,Leigh Bowery,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-86,uri,http://www.wikidata.org/entity/Q281832,en,literal,Louis Falco,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-87,uri,http://www.wikidata.org/entity/Q255,en,literal,Ludwig van Beethoven,en,literal,male,literal,syphilis,literal,liver cirrhosis
-88,uri,http://www.wikidata.org/entity/Q455579,en,literal,Madonna Wayne Gacy,en,literal,male,literal,HIV/AIDS,literal,
-89,uri,http://www.wikidata.org/entity/Q54563681,en,literal,Magaly Gilles-Giovannoni,en,literal,female,literal,HIV/AIDS,literal,death from AIDS-related complications
-90,uri,http://www.wikidata.org/entity/Q2104774,en,literal,Makgatho Mandela,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-91,uri,http://www.wikidata.org/entity/Q54611390,en,literal,Malcom Gregory Scott,en,literal,male,literal,HIV/AIDS,literal,
-92,uri,http://www.wikidata.org/entity/Q1889941,en,literal,Manfred Seipold,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-93,uri,http://www.wikidata.org/entity/Q1335349,en,literal,Mano Solo,en,literal,male,literal,HIV/AIDS,literal,"death from AIDS-related complications, aneurysm"
-94,uri,http://www.wikidata.org/entity/Q16597926,en,literal,Manolo Iglesias,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-95,uri,http://www.wikidata.org/entity/Q11881146,en,literal,Marko Salo,en,literal,male,literal,HIV/AIDS,literal,"meningitis, death from AIDS-related complications"
-96,uri,http://www.wikidata.org/entity/Q1522057,en,literal,Martin Wong,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-97,uri,http://www.wikidata.org/entity/Q3856132,en,literal,Michael Callen,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-98,uri,http://www.wikidata.org/entity/Q60754678,en,literal,Michael Hardwick,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-99,uri,http://www.wikidata.org/entity/Q329716,en,literal,Michael Jeter,en,literal,male,literal,HIV/AIDS,literal,epilepsy
-100,uri,http://www.wikidata.org/entity/Q107341816,en,literal,Nadia Echazú,en,literal,transgender female,literal,HIV/AIDS,literal,
-101,uri,http://www.wikidata.org/entity/Q3873440,en,literal,Navigator Dzinkambani,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-102,uri,http://www.wikidata.org/entity/Q1866666,en,literal,Nkosi Johnson,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-103,uri,http://www.wikidata.org/entity/Q107387549,en,literal,Nomandla Yako,en,literal,female,literal,HIV/AIDS,literal,COVID-19
-104,uri,http://www.wikidata.org/entity/Q2019126,en,literal,Oleg Kerensky,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-105,uri,http://www.wikidata.org/entity/Q154602,en,literal,Otto Nicolai,en,literal,male,literal,syphilis,literal,stroke
-106,uri,http://www.wikidata.org/entity/Q2474802,en,literal,Pascal de Duve,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-107,uri,http://www.wikidata.org/entity/Q2407511,en,literal,Pat Sullivan,en,literal,male,literal,syphilis,literal,"pneumonia, alcoholism"
-108,uri,http://www.wikidata.org/entity/Q1230996,en,literal,Paul Monette,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-109,uri,http://www.wikidata.org/entity/Q3496409,en,literal,Pedro Zamora,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-110,uri,http://www.wikidata.org/entity/Q7174975,en,literal,Peter Jepson-Young,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-111,uri,http://www.wikidata.org/entity/Q109801653,en,literal,Phil Saviano,en,literal,male,literal,HIV/AIDS,literal,gallbladder cancer
-112,uri,http://www.wikidata.org/entity/Q745578,en,literal,Pier Vittorio Tondelli,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-113,uri,http://www.wikidata.org/entity/Q2664073,en,literal,Rafael Orozco,en,literal,male,literal,HIV/AIDS,literal,HIV/AIDS
-114,uri,http://www.wikidata.org/entity/Q703498,en,literal,Ray Gillen,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-115,uri,http://www.wikidata.org/entity/Q27689433,en,literal,René Garralon,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-116,uri,http://www.wikidata.org/entity/Q7323969,en,literal,Richard Barr,en,literal,male,literal,HIV/AIDS,literal,liver failure
-117,uri,http://www.wikidata.org/entity/Q7324129,en,literal,Richard Berkowitz,en,literal,male,literal,HIV/AIDS,literal,
-118,uri,http://www.wikidata.org/entity/Q2096412,en,literal,Rick Aviles,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-119,uri,http://www.wikidata.org/entity/Q4348620,en,literal,Ricky Wilson,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-120,uri,http://www.wikidata.org/entity/Q42899047,en,literal,Robert Farber,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-121,uri,http://www.wikidata.org/entity/Q7346671,en,literal,Robert La Tourneaux,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-122,uri,http://www.wikidata.org/entity/Q712927,en,literal,Robert McCall,en,literal,male,literal,HIV/AIDS,literal,brain cancer
-123,uri,http://www.wikidata.org/entity/Q288055,en,literal,Robert Rayford,en,literal,male,literal,HIV/AIDS,literal,"death from AIDS-related complications, pneumonia"
-124,uri,http://www.wikidata.org/entity/Q7351128,en,literal,Robert Williams,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-125,uri,http://www.wikidata.org/entity/Q98084411,en,literal,Robin Mackie,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-126,uri,http://www.wikidata.org/entity/Q184378,en,literal,Rock Hudson,en,literal,male,literal,HIV/AIDS,literal,"lung cancer, AIDS related disease"
-127,uri,http://www.wikidata.org/entity/Q106835403,en,literal,Roger Horwitz,en,literal,male,literal,HIV/AIDS,literal,
-128,uri,http://www.wikidata.org/entity/Q7380371,en,literal,Rupert Whitaker,en,literal,male,literal,HIV/AIDS,literal,
-129,uri,http://www.wikidata.org/entity/Q320163,en,literal,Ryan White,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-130,uri,http://www.wikidata.org/entity/Q2542671,en,literal,Serge Daney,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-131,uri,http://www.wikidata.org/entity/Q15122243,en,literal,Spencer Cox,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-132,uri,http://www.wikidata.org/entity/Q502,en,literal,Stendhal,en,literal,male,literal,syphilis,literal,stroke
-133,uri,http://www.wikidata.org/entity/Q93924142,en,literal,Stephen F. Kolzak,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-134,uri,http://www.wikidata.org/entity/Q3498622,en,literal,Stephen Oliver,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-135,uri,http://www.wikidata.org/entity/Q267081,en,literal,Steve Rubell,en,literal,male,literal,HIV/AIDS,literal,"death from AIDS-related complications, sepsis, hepatitis"
-136,uri,http://www.wikidata.org/entity/Q7651076,en,literal,Suzi Lovegrove,en,literal,female,literal,HIV/AIDS,literal,death from AIDS-related complications
-137,uri,http://www.wikidata.org/entity/Q2377797,en,literal,Szymon Zimorowic,en,literal,male,literal,syphilis,literal,
-138,uri,http://www.wikidata.org/entity/Q15918394,en,literal,Ted Stearn,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-139,uri,http://www.wikidata.org/entity/Q10381076,en,literal,Thales Pan Chacon,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-140,uri,http://www.wikidata.org/entity/Q3524468,en,literal,Thierry Paulin,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-141,uri,http://www.wikidata.org/entity/Q2433818,en,literal,Tim Brown,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-142,uri,http://www.wikidata.org/entity/Q1094329,en,literal,Tim Richmond,en,literal,male,literal,HIV/AIDS,literal,"death from AIDS-related complications, Pneumocystis"
-143,uri,http://www.wikidata.org/entity/Q7804283,en,literal,Tim Sims,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-144,uri,http://www.wikidata.org/entity/Q731619,en,literal,Timothy Patrick Murphy,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-145,uri,http://www.wikidata.org/entity/Q81233182,en,literal,Tom Rauffenbart,en,literal,male,literal,HIV/AIDS,literal,chronic obstructive pulmonary disease
-146,uri,http://www.wikidata.org/entity/Q2396027,en,literal,Vito Galfano,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-147,uri,http://www.wikidata.org/entity/Q725318,en,literal,Vito Russo,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-148,uri,http://www.wikidata.org/entity/Q17627823,en,literal,Víctor Hugo Pérez Peñaloza,en,literal,genderfluid,literal,HIV/AIDS,literal,encephalitis
-149,uri,http://www.wikidata.org/entity/Q109630123,en,literal,William Way,en,literal,male,literal,HIV/AIDS,literal,
-150,uri,http://www.wikidata.org/entity/Q3570682,en,literal,Xavier Fourcade,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-151,uri,http://www.wikidata.org/entity/Q3573333,en,literal,Yvan Burger,en,literal,male,literal,HIV/AIDS,literal,death from AIDS-related complications
-152,uri,http://www.wikidata.org/entity/Q450376,en,literal,Yvonne Vera,en,literal,female,literal,HIV/AIDS,literal,"death from AIDS-related complications, meningitis"
+,person.type,person.value,personLabel.xml:lang,personLabel.type,personLabel.value,sexgenderLabel.xml:lang,sexgenderLabel.type,sexgenderLabel.value,citizenship.type,citizenship.value,conditions.type,conditions.value,causedeath.type,causedeath.value
+0,uri,http://www.wikidata.org/entity/Q831387,en,literal,Abing,en,literal,male,literal,People's Republic of China,literal,syphilis,literal,
+1,uri,http://www.wikidata.org/entity/Q58640157,en,literal,Adam Johnson,en,literal,male,literal,,literal,HIV/AIDS,literal,death from AIDS-related complications
+2,uri,http://www.wikidata.org/entity/Q352,en,literal,Adolf Hitler,en,literal,male,literal,"Cisleithania, First Republic of Austria, Republic of German-Austria, Weimar Republic, Nazi Germany",literal,syphilis,literal,ballistic trauma
+3,uri,http://www.wikidata.org/entity/Q2740907,en,literal,Agustín Gómez-Arcos,en,literal,male,literal,"France, Spain",literal,HIV/AIDS,literal,death from AIDS-related complications
+4,uri,http://www.wikidata.org/entity/Q80048,en,literal,Al Capone,en,literal,male,literal,United States of America,literal,"neurosyphilis, gonorrhea, syphilis",literal,bronchopneumonia
+5,uri,http://www.wikidata.org/entity/Q1286616,en,literal,Al Parker,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+6,uri,http://www.wikidata.org/entity/Q2829779,en,literal,Alain Emmanuel Dreuilhe,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+7,uri,http://www.wikidata.org/entity/Q2831095,en,literal,Albert Delegue,en,literal,male,literal,France,literal,HIV/AIDS,literal,"death from AIDS-related complications, encephalitis"
+8,uri,http://www.wikidata.org/entity/Q12873337,en,literal,Alexis Bistikas,en,literal,male,literal,Greece,literal,HIV/AIDS,literal,death from AIDS-related complications
+9,uri,http://www.wikidata.org/entity/Q449037,en,literal,Alvin Ailey,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+10,uri,http://www.wikidata.org/entity/Q5676057,en,literal,Andrés Pérez,en,literal,male,literal,Chile,literal,HIV/AIDS,literal,pneumonia
+11,uri,http://www.wikidata.org/entity/Q1090963,en,literal,Andy Milligan,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+12,uri,http://www.wikidata.org/entity/Q263123,en,literal,Annie Chapman,en,literal,female,literal,United Kingdom of Great Britain and Ireland,literal,syphilis,literal,
+13,uri,http://www.wikidata.org/entity/Q2863170,en,literal,Arnaud Marty-Lavauzelle,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+14,uri,http://www.wikidata.org/entity/Q4272060,en,literal,Arne Vidar Røed,en,literal,male,literal,Norway,literal,"gonorrhea, HIV/AIDS",literal,death from AIDS-related complications
+15,uri,http://www.wikidata.org/entity/Q53325,en,literal,Arthur Ashe,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,"pneumonia, AIDS related disease"
+16,uri,http://www.wikidata.org/entity/Q4864288,en,literal,Barry Hagan,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+17,uri,http://www.wikidata.org/entity/Q2897813,en,literal,Bernard Dort,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+18,uri,http://www.wikidata.org/entity/Q379934,en,literal,Bernard-Marie Koltès,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+19,uri,http://www.wikidata.org/entity/Q862132,en,literal,Bill Goldsworthy,en,literal,male,literal,Canada,literal,HIV/AIDS,literal,death from AIDS-related complications
+20,uri,http://www.wikidata.org/entity/Q12881298,en,literal,Billy Bo,en,literal,male,literal,Greece,literal,HIV/AIDS,literal,death from AIDS-related complications
+21,uri,http://www.wikidata.org/entity/Q864094,en,literal,Binyavanga Wainaina,en,literal,male,literal,Kenya,literal,HIV/AIDS,literal,stroke
+22,uri,http://www.wikidata.org/entity/Q4934604,en,literal,Bobbi Campbell,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,cryptosporidiosis
+23,uri,http://www.wikidata.org/entity/Q374175,en,literal,Brad Davis,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+24,uri,http://www.wikidata.org/entity/Q55681462,en,literal,Brian Buczak,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+25,uri,http://www.wikidata.org/entity/Q348916,en,literal,Bruce Chatwin,en,literal,male,literal,United Kingdom,literal,HIV/AIDS,literal,death from AIDS-related complications
+26,uri,http://www.wikidata.org/entity/Q719372,en,literal,Casey Donovan,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+27,uri,http://www.wikidata.org/entity/Q9185254,en,literal,Catherine Lombard,en,literal,female,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+28,uri,http://www.wikidata.org/entity/Q99256919,en,literal,Charles Buel,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+29,uri,http://www.wikidata.org/entity/Q2978768,en,literal,Cleews Vellay,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+30,uri,http://www.wikidata.org/entity/Q9784963,en,literal,Cláudia Magno,en,literal,female,literal,Brazil,literal,HIV/AIDS,literal,death from AIDS-related complications
+31,uri,http://www.wikidata.org/entity/Q956227,en,literal,Colin Higgins,en,literal,male,literal,"Australia, United States of America",literal,HIV/AIDS,literal,death from AIDS-related complications
+32,uri,http://www.wikidata.org/entity/Q953270,en,literal,Dack Rambo,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+33,uri,http://www.wikidata.org/entity/Q725964,en,literal,Dan Hartman,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+34,uri,http://www.wikidata.org/entity/Q28024369,en,literal,Dan Turner,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+35,uri,http://www.wikidata.org/entity/Q952233,en,literal,David Wojnarowicz,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+36,uri,http://www.wikidata.org/entity/Q22006290,en,literal,Dennis Levy,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,
+37,uri,http://www.wikidata.org/entity/Q57418896,en,literal,Dennis Riley,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+38,uri,http://www.wikidata.org/entity/Q65673977,en,literal,Deolus W. Husband,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+39,uri,http://www.wikidata.org/entity/Q282787,en,literal,Derek Jarman,en,literal,male,literal,United Kingdom,literal,HIV/AIDS,literal,death from AIDS-related complications
+40,uri,http://www.wikidata.org/entity/Q28595304,en,literal,Dom Orejudos,en,literal,male,literal,,literal,HIV/AIDS,literal,death from AIDS-related complications
+41,uri,http://www.wikidata.org/entity/Q56461797,en,literal,Dru Stix,en,literal,male,literal,United Kingdom,literal,HIV/AIDS,literal,death from AIDS-related complications
+42,uri,http://www.wikidata.org/entity/Q19974421,en,literal,Ernesto Barros Cardoso,en,literal,male,literal,,literal,HIV/AIDS,literal,death from AIDS-related complications
+43,uri,http://www.wikidata.org/entity/Q5442293,en,literal,Felix Partz,en,literal,male,literal,Canada,literal,HIV/AIDS,literal,death from AIDS-related complications
+44,uri,http://www.wikidata.org/entity/Q1405464,en,literal,Ferdinand Karmelk,en,literal,male,literal,Kingdom of the Netherlands,literal,HIV/AIDS,literal,death from AIDS-related complications
+45,uri,http://www.wikidata.org/entity/Q939138,en,literal,Frank Silva,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+46,uri,http://www.wikidata.org/entity/Q15869,en,literal,Freddie Mercury,en,literal,male,literal,"Sultanate of Zanzibar, United Kingdom",literal,HIV/AIDS,literal,bronchopneumonia
+47,uri,http://www.wikidata.org/entity/Q1288359,en,literal,Félix González-Torres,en,literal,male,literal,"Cuba, United States of America",literal,HIV/AIDS,literal,death from AIDS-related complications
+48,uri,http://www.wikidata.org/entity/Q1381697,en,literal,Gaëtan Dugas,en,literal,male,literal,Canada,literal,HIV/AIDS,literal,"death from AIDS-related complications, kidney failure"
+49,uri,http://www.wikidata.org/entity/Q5534471,en,literal,Geoffrey Bowers,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+50,uri,http://www.wikidata.org/entity/Q230824,en,literal,Gia Carangi,en,literal,female,literal,United States of America,literal,HIV/AIDS,literal,HIV/AIDS
+51,uri,http://www.wikidata.org/entity/Q220768,en,literal,Giambattista Bodoni,en,literal,male,literal,,literal,syphilis,literal,
+52,uri,http://www.wikidata.org/entity/Q23808688,en,literal,Gil Cuadros,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+53,uri,http://www.wikidata.org/entity/Q3106079,en,literal,Gilles Barbedette,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+54,uri,http://www.wikidata.org/entity/Q5880211,en,literal,Giovanny Romero Infante,en,literal,male,literal,Peru,literal,HIV/AIDS,literal,death from AIDS-related complications
+55,uri,http://www.wikidata.org/entity/Q5607759,en,literal,Grethe Rask,en,literal,female,literal,Denmark,literal,HIV/AIDS,literal,"pneumonia, death from AIDS-related complications"
+56,uri,http://www.wikidata.org/entity/Q10292662,en,literal,Gugu Dlamini,en,literal,female,literal,South Africa,literal,HIV/AIDS,literal,
+57,uri,http://www.wikidata.org/entity/Q1309970,en,literal,Guy Hocquenghem,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+58,uri,http://www.wikidata.org/entity/Q77208,en,literal,Horst Bienek,en,literal,male,literal,"West Germany, Germany",literal,HIV/AIDS,literal,death from AIDS-related complications
+59,uri,http://www.wikidata.org/entity/Q1334295,en,literal,Howard Ashman,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+60,uri,http://www.wikidata.org/entity/Q24578817,en,literal,Iannis Katsahnias,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+61,uri,http://www.wikidata.org/entity/Q2989086,en,literal,Ivan Vdović,en,literal,male,literal,Serbia,literal,HIV/AIDS,literal,death from AIDS-related complications
+62,uri,http://www.wikidata.org/entity/Q706886,en,literal,Jack Smith,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+63,uri,http://www.wikidata.org/entity/Q312258,en,literal,Jacques Demy,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+64,uri,http://www.wikidata.org/entity/Q449094,en,literal,Jacques Morali,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+65,uri,http://www.wikidata.org/entity/Q30332144,en,literal,Jacques de Bascher,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+66,uri,http://www.wikidata.org/entity/Q1237656,en,literal,James Rizzi,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,
+67,uri,http://www.wikidata.org/entity/Q18415613,en,literal,Jean-Baptiste Niel,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+68,uri,http://www.wikidata.org/entity/Q21664913,en,literal,Jeffrey Schmalz,en,literal,male,literal,,literal,HIV/AIDS,literal,death from AIDS-related complications
+69,uri,http://www.wikidata.org/entity/Q1690964,en,literal,Jobriath,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+70,uri,http://www.wikidata.org/entity/Q952198,en,literal,John Carroll,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,leukemia
+71,uri,http://www.wikidata.org/entity/Q312688,en,literal,John Holmes,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+72,uri,http://www.wikidata.org/entity/Q12320199,en,literal,John Little,en,literal,male,literal,"United Kingdom, Denmark",literal,HIV/AIDS,literal,
+73,uri,http://www.wikidata.org/entity/Q64647152,en,literal,John Van Ryzin,en,literal,male,literal,,literal,HIV/AIDS,literal,death from AIDS-related complications
+74,uri,http://www.wikidata.org/entity/Q20492630,en,literal,Jon Salaberri,en,literal,male,literal,Spain,literal,HIV/AIDS,literal,death from AIDS-related complications
+75,uri,http://www.wikidata.org/entity/Q15456914,en,literal,Joseph F. Beam,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+76,uri,http://www.wikidata.org/entity/Q16010280,en,literal,Keith Barrow,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+77,uri,http://www.wikidata.org/entity/Q927532,en,literal,Kenny Everett,en,literal,male,literal,United Kingdom,literal,HIV/AIDS,literal,death from AIDS-related complications
+78,uri,http://www.wikidata.org/entity/Q100152138,en,literal,Kim Foltz,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+79,uri,http://www.wikidata.org/entity/Q57774,en,literal,Klaus Nomi,en,literal,male,literal,Germany,literal,HIV/AIDS,literal,death from AIDS-related complications
+80,uri,http://www.wikidata.org/entity/Q13745316,en,literal,Koos Prinsloo,en,literal,male,literal,South Africa,literal,HIV/AIDS,literal,death from AIDS-related complications
+81,uri,http://www.wikidata.org/entity/Q559833,en,literal,Kostas Karyotakis,en,literal,male,literal,Greece,literal,syphilis,literal,ballistic trauma
+82,uri,http://www.wikidata.org/entity/Q653366,en,literal,Larry Kramer,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,pneumonia
+83,uri,http://www.wikidata.org/entity/Q10316596,en,literal,Lauro Corona,en,literal,male,literal,Brazil,literal,HIV/AIDS,literal,death from AIDS-related complications
+84,uri,http://www.wikidata.org/entity/Q84313192,en,literal,Lee Gannon,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,car accident
+85,uri,http://www.wikidata.org/entity/Q1024044,en,literal,Leigh Bowery,en,literal,male,literal,Australia,literal,HIV/AIDS,literal,death from AIDS-related complications
+86,uri,http://www.wikidata.org/entity/Q281832,en,literal,Louis Falco,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+87,uri,http://www.wikidata.org/entity/Q255,en,literal,Ludwig van Beethoven,en,literal,male,literal,Electorate of Cologne,literal,syphilis,literal,liver cirrhosis
+88,uri,http://www.wikidata.org/entity/Q455579,en,literal,Madonna Wayne Gacy,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,
+89,uri,http://www.wikidata.org/entity/Q54563681,en,literal,Magaly Gilles-Giovannoni,en,literal,female,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+90,uri,http://www.wikidata.org/entity/Q2104774,en,literal,Makgatho Mandela,en,literal,male,literal,South Africa,literal,HIV/AIDS,literal,death from AIDS-related complications
+91,uri,http://www.wikidata.org/entity/Q54611390,en,literal,Malcom Gregory Scott,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,
+92,uri,http://www.wikidata.org/entity/Q1889941,en,literal,Manfred Seipold,en,literal,male,literal,Germany,literal,HIV/AIDS,literal,death from AIDS-related complications
+93,uri,http://www.wikidata.org/entity/Q1335349,en,literal,Mano Solo,en,literal,male,literal,France,literal,HIV/AIDS,literal,"death from AIDS-related complications, aneurysm"
+94,uri,http://www.wikidata.org/entity/Q16597926,en,literal,Manolo Iglesias,en,literal,male,literal,Spain,literal,HIV/AIDS,literal,death from AIDS-related complications
+95,uri,http://www.wikidata.org/entity/Q11881146,en,literal,Marko Salo,en,literal,male,literal,Finland,literal,HIV/AIDS,literal,"meningitis, death from AIDS-related complications"
+96,uri,http://www.wikidata.org/entity/Q1522057,en,literal,Martin Wong,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+97,uri,http://www.wikidata.org/entity/Q3856132,en,literal,Michael Callen,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+98,uri,http://www.wikidata.org/entity/Q60754678,en,literal,Michael Hardwick,en,literal,male,literal,,literal,HIV/AIDS,literal,death from AIDS-related complications
+99,uri,http://www.wikidata.org/entity/Q329716,en,literal,Michael Jeter,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,epilepsy
+100,uri,http://www.wikidata.org/entity/Q107341816,en,literal,Nadia Echazú,en,literal,transgender female,literal,Argentina,literal,HIV/AIDS,literal,
+101,uri,http://www.wikidata.org/entity/Q3873440,en,literal,Navigator Dzinkambani,en,literal,male,literal,Malawi,literal,HIV/AIDS,literal,death from AIDS-related complications
+102,uri,http://www.wikidata.org/entity/Q1866666,en,literal,Nkosi Johnson,en,literal,male,literal,South Africa,literal,HIV/AIDS,literal,death from AIDS-related complications
+103,uri,http://www.wikidata.org/entity/Q107387549,en,literal,Nomandla Yako,en,literal,female,literal,South Africa,literal,HIV/AIDS,literal,COVID-19
+104,uri,http://www.wikidata.org/entity/Q2019126,en,literal,Oleg Kerensky,en,literal,male,literal,Russian Empire,literal,HIV/AIDS,literal,death from AIDS-related complications
+105,uri,http://www.wikidata.org/entity/Q154602,en,literal,Otto Nicolai,en,literal,male,literal,Germany,literal,syphilis,literal,stroke
+106,uri,http://www.wikidata.org/entity/Q111210974,en,literal,Pascal Vailler,,,,literal,,literal,HIV/AIDS,literal,
+107,uri,http://www.wikidata.org/entity/Q2474802,en,literal,Pascal de Duve,en,literal,male,literal,Belgium,literal,HIV/AIDS,literal,death from AIDS-related complications
+108,uri,http://www.wikidata.org/entity/Q2407511,en,literal,Pat Sullivan,en,literal,male,literal,Australia,literal,syphilis,literal,"pneumonia, alcoholism"
+109,uri,http://www.wikidata.org/entity/Q1230996,en,literal,Paul Monette,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+110,uri,http://www.wikidata.org/entity/Q3496409,en,literal,Pedro Zamora,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+111,uri,http://www.wikidata.org/entity/Q7174975,en,literal,Peter Jepson-Young,en,literal,male,literal,Canada,literal,HIV/AIDS,literal,death from AIDS-related complications
+112,uri,http://www.wikidata.org/entity/Q109801653,en,literal,Phil Saviano,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,gallbladder cancer
+113,uri,http://www.wikidata.org/entity/Q745578,en,literal,Pier Vittorio Tondelli,en,literal,male,literal,Italy,literal,HIV/AIDS,literal,death from AIDS-related complications
+114,uri,http://www.wikidata.org/entity/Q2664073,en,literal,Rafael Orozco,en,literal,male,literal,Spain,literal,HIV/AIDS,literal,HIV/AIDS
+115,uri,http://www.wikidata.org/entity/Q703498,en,literal,Ray Gillen,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+116,uri,http://www.wikidata.org/entity/Q27689433,en,literal,René Garralon,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+117,uri,http://www.wikidata.org/entity/Q7323969,en,literal,Richard Barr,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,liver failure
+118,uri,http://www.wikidata.org/entity/Q7324129,en,literal,Richard Berkowitz,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,
+119,uri,http://www.wikidata.org/entity/Q2096412,en,literal,Rick Aviles,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+120,uri,http://www.wikidata.org/entity/Q4348620,en,literal,Ricky Wilson,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+121,uri,http://www.wikidata.org/entity/Q42899047,en,literal,Robert Farber,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+122,uri,http://www.wikidata.org/entity/Q7346671,en,literal,Robert La Tourneaux,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+123,uri,http://www.wikidata.org/entity/Q712927,en,literal,Robert McCall,en,literal,male,literal,Canada,literal,HIV/AIDS,literal,brain cancer
+124,uri,http://www.wikidata.org/entity/Q288055,en,literal,Robert Rayford,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,"death from AIDS-related complications, pneumonia"
+125,uri,http://www.wikidata.org/entity/Q7351128,en,literal,Robert Williams,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+126,uri,http://www.wikidata.org/entity/Q98084411,en,literal,Robin Mackie,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+127,uri,http://www.wikidata.org/entity/Q184378,en,literal,Rock Hudson,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,"lung cancer, AIDS related disease"
+128,uri,http://www.wikidata.org/entity/Q106835403,en,literal,Roger Horwitz,en,literal,male,literal,,literal,HIV/AIDS,literal,
+129,uri,http://www.wikidata.org/entity/Q7380371,en,literal,Rupert Whitaker,en,literal,male,literal,,literal,HIV/AIDS,literal,
+130,uri,http://www.wikidata.org/entity/Q320163,en,literal,Ryan White,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+131,uri,http://www.wikidata.org/entity/Q2542671,en,literal,Serge Daney,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+132,uri,http://www.wikidata.org/entity/Q15122243,en,literal,Spencer Cox,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+133,uri,http://www.wikidata.org/entity/Q502,en,literal,Stendhal,en,literal,male,literal,France,literal,syphilis,literal,stroke
+134,uri,http://www.wikidata.org/entity/Q93924142,en,literal,Stephen F. Kolzak,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+135,uri,http://www.wikidata.org/entity/Q3498622,en,literal,Stephen Oliver,en,literal,male,literal,United Kingdom,literal,HIV/AIDS,literal,death from AIDS-related complications
+136,uri,http://www.wikidata.org/entity/Q267081,en,literal,Steve Rubell,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,"death from AIDS-related complications, hepatitis, sepsis"
+137,uri,http://www.wikidata.org/entity/Q7651076,en,literal,Suzi Lovegrove,en,literal,female,literal,Australia,literal,HIV/AIDS,literal,death from AIDS-related complications
+138,uri,http://www.wikidata.org/entity/Q2377797,en,literal,Szymon Zimorowic,en,literal,male,literal,Polish–Lithuanian Commonwealth,literal,syphilis,literal,
+139,uri,http://www.wikidata.org/entity/Q15918394,en,literal,Ted Stearn,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+140,uri,http://www.wikidata.org/entity/Q10381076,en,literal,Thales Pan Chacon,en,literal,male,literal,Brazil,literal,HIV/AIDS,literal,death from AIDS-related complications
+141,uri,http://www.wikidata.org/entity/Q3524468,en,literal,Thierry Paulin,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+142,uri,http://www.wikidata.org/entity/Q2433818,en,literal,Tim Brown,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+143,uri,http://www.wikidata.org/entity/Q1094329,en,literal,Tim Richmond,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,"death from AIDS-related complications, Pneumocystis"
+144,uri,http://www.wikidata.org/entity/Q7804283,en,literal,Tim Sims,en,literal,male,literal,Canada,literal,HIV/AIDS,literal,death from AIDS-related complications
+145,uri,http://www.wikidata.org/entity/Q731619,en,literal,Timothy Patrick Murphy,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+146,uri,http://www.wikidata.org/entity/Q81233182,en,literal,Tom Rauffenbart,en,literal,male,literal,,literal,HIV/AIDS,literal,chronic obstructive pulmonary disease
+147,uri,http://www.wikidata.org/entity/Q2396027,en,literal,Vito Galfano,en,literal,male,literal,Kingdom of the Netherlands,literal,HIV/AIDS,literal,death from AIDS-related complications
+148,uri,http://www.wikidata.org/entity/Q725318,en,literal,Vito Russo,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+149,uri,http://www.wikidata.org/entity/Q17627823,en,literal,Víctor Hugo Pérez Peñaloza,en,literal,genderfluid,literal,Chile,literal,HIV/AIDS,literal,encephalitis
+150,uri,http://www.wikidata.org/entity/Q109630123,en,literal,William Way,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,
+151,uri,http://www.wikidata.org/entity/Q3570682,en,literal,Xavier Fourcade,en,literal,male,literal,United States of America,literal,HIV/AIDS,literal,death from AIDS-related complications
+152,uri,http://www.wikidata.org/entity/Q3573333,en,literal,Yvan Burger,en,literal,male,literal,France,literal,HIV/AIDS,literal,death from AIDS-related complications
+153,uri,http://www.wikidata.org/entity/Q450376,en,literal,Yvonne Vera,en,literal,female,literal,Zimbabwe,literal,HIV/AIDS,literal,"death from AIDS-related complications, meningitis"
